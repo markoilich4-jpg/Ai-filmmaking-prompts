@@ -1,5 +1,3 @@
-# Ai-filmmaking-prompts
-Prompt guides and workflows for AI filmmaking and cinematic video generation.
 # AI Filmmaking Prompts
 
 A collection of prompts and guides for cinematic AI video generation,
