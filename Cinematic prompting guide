@@ -1,0 +1,117 @@
+# Cinematic Prompting Guide for AI Video
+
+A practical reference for writing prompts that produce cinematic, 
+professional-looking AI video outputs.
+
+---
+
+## Be Specific
+
+Vague prompts produce vague results. Describe exactly what you see 
+in your head — the action, the light, the texture, the mood. 
+
+Bad: "a man walking down a street"
+Good: "a man walks slowly down a rain-soaked street at night, 
+neon reflections on the wet asphalt, low angle, shallow depth 
+of field, moody underexposure"
+
+---
+
+## Shot Types
+
+Define your framing before anything else. The shot type sets the 
+emotional distance between the viewer and the subject.
+
+- **Extreme Close-Up** — detail, tension, intimacy
+- **Close-Up** — emotion, character focus
+- **Medium Close-Up** — dialogue, reaction
+- **Medium Shot** — action and context together
+- **Medium Long Shot** — full body with environment
+- **Low Angle** — power, dominance, threat
+- **Overhead Shot** — isolation, scale, god's perspective
+- **Over the Shoulder** — point of view, relationship
+
+---
+
+## Camera Movement
+
+Movement tells the story as much as the image itself.
+
+- **Tracking Shot** — follows the subject, keeps pace with action
+- **Reverse Tracking** — subject walks toward camera as it pulls back
+- **Dolly In** — slow push creates tension or intimacy
+- **Handheld** — instability, urgency, realism
+- **Steadicam** — smooth follow, fluid and cinematic
+- **Crane Shot** — reveals scale, epic feeling
+- **Whip Pan** — disorientation, fast cuts, energy
+- **Orbit** — circles the subject, dramatic reveal
+
+---
+
+## Camera Aesthetic
+
+The camera you name shapes the entire look and feel.
+
+For gritty, raw, realistic work:
+ARRI ALEXA MINI LF, RED KOMODO 6K, Blackmagic URSA Mini Pro 12K
+
+For a vintage or film look:
+ARRI 435 (1990s), Bolex H16 (1950s), Éclair NPR (1960s), 
+Panavision Panaflex Platinum (1980s)
+
+For large format and epic scale:
+ARRI ALEXA 65, IMAX MKIII, Panavision Millennium DXL2
+
+---
+
+## Lighting
+
+Lighting defines mood more than almost anything else.
+
+- **Golden Hour** — warmth, nostalgia, beauty
+- **Moonlit** — cold, lonely, cinematic
+- **Low-Key** — shadows dominate, noir, tension
+- **High-Key** — bright and flat, commercial or surreal
+- **Rembrandt** — one side lit, one in shadow, classic portrait
+- **Harsh/Hard Key** — unforgiving, raw, documentary feel
+- **Tungsten** — warm indoor glow, intimate
+- **Underlighting** — unsettling, horror, unnatural
+
+---
+
+## Color Grading
+
+Name the grade and the model will follow.
+
+- **Teal and Orange** — blockbuster contrast, cinematic standard
+- **Desaturated Noir** — cold, bleak, urban
+- **Golden Glow** — warm, nostalgic, dreamy
+- **Gritty Urban** — high contrast, dirty, real
+- **1990s Grunge Wash** — faded, grainy, lo-fi
+- **High-Contrast Noir** — black and white with deep shadows
+- **Muted Earth Tones** — natural, grounded, slow cinema
+
+---
+
+## Putting It Together
+
+A strong prompt layers all of these elements:
+
+Shot type + subject + action + camera movement + lighting + 
+color grade + camera type
+
+Example:
+"Medium close-up of a soldier crouching in a bombed-out building. 
+Handheld camera drifts slightly. Harsh side lighting from a broken 
+window. Dust particles in the air. Desaturated, gritty urban color 
+grade. Shot on ARRI ALEXA MINI LF."
+
+---
+
+## Final Tips
+
+- Prioritize the most important elements — too many details can 
+  confuse the model
+- Run, assess, then refine — tweak one thing at a time
+- More keyframes means tighter control over movement
+- Name the feeling you want, not just the facts
